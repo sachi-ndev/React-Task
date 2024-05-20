@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 export default function SignIn() {
   const navigate=useNavigate()
   return (
-    <div className="w-screen overflow-hidden md:h-screen ] bg-[#F8FAFF] flex">
+    <div className="w-screen overflow-hidden  md:h-screen ] bg-[#F8FAFF] flex">
       <div
         className="w-[50%] bg-[#605BFF] relative hidden  md:flex items-center justify-center "
         id="shape"
