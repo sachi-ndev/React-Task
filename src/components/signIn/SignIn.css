@@ -1,0 +1,7 @@
+#shape{
+    clip-path: polygon(0 0, 100% 0%, 86% 100%, 0% 100%);
+
+}
+#sidebaraction{
+    transition: all 1s ;
+}
